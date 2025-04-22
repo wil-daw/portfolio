@@ -18,3 +18,7 @@
 - Developed and maintained organized data pipelines for client documentation and project tracking, improving workflow efficiency and reducing file retrieval times by 40%.
 
 ## Projects
+### Quantifying Victory: A Statistical Analysis of Champions League Performance
+[Report](file:///C:/Users/wedaw/OneDrive/Documents/STAT240/project/work/Project_Champions_League.html)
+
+This project aimed to uncover the key factors that contribute to success in the UEFA Champions League by analyzing club-level data on goals scored, goals conceded, win/loss ratios, and tournament performance. Using R Studio for all statistical analysis and visualization, we constructed linear regression models to evaluate the relationships between team performance metrics and their likelihood of winning matches. Our findings revealed a strong positive correlation between average goals scored and win percentage, and a strong negative correlation between goals conceded and win percentage—highlighting the importance of both offensive and defensive strength. The project provides insight into which attributes most influence team success and offers a data-driven framework to assess club performance in one of the most competitive soccer tournaments in the world.
