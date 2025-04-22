@@ -1,7 +1,10 @@
 # Data Scientist & Economist
 
-### Education
+#### Technical Skills: Python, SQL, Rstudio, Stata
 
-### Work Experience
+## Education
+- B.S., Data Science & Economics | University of Wisconsin-Madison (May 2026)
 
-### Projects
+## Work Experience
+
+## Projects
